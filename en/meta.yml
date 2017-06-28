@@ -1,12 +1,12 @@
-title: generic-scratch-set-coordinates
+title: Set a sprite's coordinates in Scratch
 hero_image: images/banner.png
-description: generic-scratch-set-coordinates description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: How to set a sprite's coordinates in Scratch
+original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
-ingredient: false
-interests: "games, photography, physical computing"
-technologies: "electronics, physical computing, python, scratch"
+ingredient: true
+interests:
+technologies: "scratch"
 steps:
-  - title: Step one
+  - title: Set coordinates
