@@ -1,6 +1,6 @@
-To set a sprite's coordiantes to a certain point on the stage:
+To set a sprite's coordinates to a certain point on the stage:
 
-- Click on the **Motion** menu in the Scripts pallette.
+- Click on the **Motion** menu in the Scripts palette.
 
 	![motion menu](images/motion-menu.png)
 
