@@ -14,5 +14,5 @@ To set a sprite's coordinates to a certain point on the stage:
 
 - If you only want to set the `x` or `y` position, you can use either of the following two blocks instead.
 
-![set x](images/setx.png)
-![set y](images/sety.png)
+	![set x](images/setx.png)
+	![set y](images/sety.png)
