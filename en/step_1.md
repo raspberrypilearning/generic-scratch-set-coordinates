@@ -4,7 +4,7 @@ To set a sprite's coordinates so that it appears at a certain location on the St
 
 	![motion menu](images/motion-menu.png)
 
-- Find the `go to x: ( ) y: ( )` block.
+- Find the `go to x: ( ) y: ( )`{:class="blockmotion"} block.
 
 	![go to x y](images/goto.png)
 
